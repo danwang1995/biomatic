@@ -1,0 +1,4 @@
+cat,dog,mouse
+gazelle,lion
+lion,gazelle
+mouse,gazelle,lion
